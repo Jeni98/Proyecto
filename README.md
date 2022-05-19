@@ -21,5 +21,5 @@ detalles de la orden).
 
 En la siguiente imagen se muestran las relaciones entre tablas:
 
-https://github.com/Jeni98/Imagenes/blob/06f41d7ad5d96505fe60bd7d5c7a7a161ccc3824/tablas.png
+![Relacion entre tablas](https://github.com/Jeni98/Imagenes/blob/06f41d7ad5d96505fe60bd7d5c7a7a161ccc3824/tablas.png)
 
