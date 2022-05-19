@@ -11,9 +11,9 @@ Para acceder como usuario podras loguearte en la aplicación. Esto es
 porque solamente se creo el fomulario para que la persona que se registre
 quede con un rol de usuario.
 
-#Funcionamiento
+# Funcionamiento
 
-##Tablas
+## Tablas
 La aplicacion se conecta con una base de datos h2 por medio de 
 dependencias de Spring Boot. En esta base de datos se crean 4 tablas:
 Usuarios, Productos, Orden y Detalles (En esta ultima se guardan los
